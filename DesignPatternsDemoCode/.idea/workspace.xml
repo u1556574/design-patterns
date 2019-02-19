@@ -1,46 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d0c05512-e3f3-4bfd-81ea-783c8a46a222" name="Default" comment="init commit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/out/production/Recursion/CuSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/out/production/Recursion/RecursivePowers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DesignPatternsDemoCode.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FactoryDemo/Circle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FactoryDemo/FactoryPatternDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FactoryDemo/Rectangle.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FactoryDemo/Shape.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FactoryDemo/ShapeFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/FactoryDemo/Square.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObserverDemo/DemoGUI.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObserverDemo/ObserverDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ObserverDemo/SharedString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SingletonDemo/SingleObject.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SingletonDemo/SingletonDemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/Lists.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/queue/EmptyQueueException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/queue/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/queue/QueueNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/queue/QueueTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/EmptyStackException.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/Stack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Recursion/Recursion.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Recursion/src/CuSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Recursion/src/RecursivePowers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/RecursionAndDataStructures.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Trees/Trees.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Trees/src/tree/Tree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Trees/src/tree/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Trees/src/tree/TreeTest.java" />
+    <list default="true" id="d0c05512-e3f3-4bfd-81ea-783c8a46a222" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackTest.java" afterPath="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +29,8 @@
       <file leaf-file-name="StackTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="153">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -81,6 +44,13 @@
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
       <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackTest.java" />
+      </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
@@ -125,7 +95,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -234,6 +204,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d0c05512-e3f3-4bfd-81ea-783c8a46a222" name="Default" comment="" />
@@ -242,15 +215,24 @@
       <option name="presentableId" value="Default" />
       <updated>1550573509596</updated>
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <created>1550574867225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1550574867225</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3292683" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -263,6 +245,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12447917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -299,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../RecursionAndDataStructures-master/Lists/src/stack/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="153">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding />
         </state>
       </provider>
